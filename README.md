@@ -1,6 +1,6 @@
-# **DreamForge: Build the Future Together** 🚀 
+# **Myte - Open: Build the Future Together** 🚀 
 
-Welcome to **DreamForge**, an open-source space by **Myte Group**. This repository is a playground where ideas take shape, tools are crafted, and innovation happens in real-time. No restrictions, no licenses—use it freely and make it yours.
+Welcome to **Myte - Open**, an open-source space by **Myte Group**. This repository is a playground where ideas take shape, tools are crafted, and innovation happens in real-time. No restrictions, no licenses—use it freely and make it yours.
 
 ---
 
