@@ -35,4 +35,4 @@ Let’s build what we want, together.
 
 
 ## **SET-UP**
-#Let's fill this in together as we go
+Let's fill this in together as we go
