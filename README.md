@@ -243,11 +243,11 @@ MYTEGROUP/
 ├── requirements.txt
 ├── Agents/
 │   ├── Bill_Analyzer/
-│   │   └── tools/
-│   │       ├── A_Scrape_Bills.py
-│   │       └── B_Enhance_Bills.py
-│   └── C/
-│       └── summarize_all_bills.py
+│       └── tools/
+│          ├── A_Scrape_Bills.py
+│          └── B_Enhance_Bills.py
+|          |── C_summarize_all_bills.py 
+│       
 ├── assets/
 │   └── chromedriver.exe
 ├── helpers/
