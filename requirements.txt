@@ -1,0 +1,4 @@
+selenium==4.10.0  # Upgraded for better support and stability
+webdriver-manager==4.0.0  # Ensures compatibility with latest Selenium versions
+beautifulsoup4==4.12.2  # Required for parsing HTML content
+lxml==4.9.3  # Boosts HTML/XML parsing performance for BeautifulSoup
