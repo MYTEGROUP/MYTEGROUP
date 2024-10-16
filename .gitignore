@@ -1,0 +1,20 @@
+# .gitignore
+
+# Python-related
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Logs
+*.log
+
+# Ignore ChromeDriver and Selenium screenshots
+assets/
+clickimages/
+
+# Ignore compiled files and outputs
+storage/CanadaBills.json
+storage/CanadaBillsEnhanced.json
