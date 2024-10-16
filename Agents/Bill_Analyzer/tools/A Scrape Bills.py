@@ -24,7 +24,7 @@ chrome_options.add_argument("--start-maximized")
 chrome_options.add_experimental_option("detach", True)
 
 # #### The scraper found the exact location of its ChromeDriver, a loyal companion that would help it on this adventure.
-chromedriver_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'assets', 'chromedriver.exe')
+chromedriver_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '../../../assets', 'chromedriver.exe')
 
 # Initialize the Chrome driver
 # #### With everything set, the scraper called upon ChromeDriver and got ready to begin the mission.
@@ -154,7 +154,7 @@ while True:
 # ### After gathering all this valuable information, it was time for the scraper to store it safely.
 
 # Write all the bill information to the JSON file
-output_file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'storage', 'CanadaBills.json')
+output_file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '../../../storage', 'CanadaBills.json')
 with open(output_file_path, 'w') as json_file:
     json.dump(all_bills_info, json_file, indent=4)
 

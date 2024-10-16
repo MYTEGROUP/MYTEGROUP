@@ -19,7 +19,7 @@ chrome_options.add_argument("--start-maximized")
 chrome_options.add_experimental_option("detach", True)
 
 # Define the path to your new ChromeDriver location
-chromedriver_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'assets', 'chromedriver.exe')
+chromedriver_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '../../../assets', 'chromedriver.exe')
 
 # Initialize the Chrome driver
 service = Service(chromedriver_path)
@@ -73,12 +73,12 @@ def enhance_bill_info(bill):
     return bill
 
 # Load the existing data
-input_file_path = os.path.join('storage', 'CanadaBills.json')
+input_file_path = os.path.join('../../../storage', 'CanadaBills.json')
 with open(input_file_path, 'r') as file:
     bills_data = json.load(file)
 
 # Define the output file path
-output_file_path = os.path.join('storage', 'CanadaBillsEnhanced.json')
+output_file_path = os.path.join('../../../storage', 'CanadaBillsEnhanced.json')
 
 # Check if the enhanced file already exists, if not, create an empty list
 if not os.path.exists(output_file_path):

@@ -1,4 +1,4 @@
-# Agents/summarize_bill.py
+# Agents/C summarize_all_bills.py
 
 import os
 from threading import Thread
