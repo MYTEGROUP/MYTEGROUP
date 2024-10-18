@@ -12,7 +12,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.903917",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-2",
@@ -27,7 +29,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.904915",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-3",
@@ -42,7 +46,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.905968",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-4",
@@ -57,7 +63,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:40.905968",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-5",
@@ -72,7 +80,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:40.906971",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-6",
@@ -87,7 +97,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.906971",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-7",
@@ -102,7 +114,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.907967",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-8",
@@ -117,7 +131,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:40.907967",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-9",
@@ -132,7 +148,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:40.907967",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-10",
@@ -147,7 +165,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:40.908966",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-11",
@@ -162,7 +182,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.908966",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-12",
@@ -177,7 +199,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:40.909967",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-13",
@@ -192,7 +216,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.909967",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-14",
@@ -207,7 +233,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.909967",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-15",
@@ -222,7 +250,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.910966",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-16",
@@ -237,7 +267,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.910966",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-17",
@@ -252,7 +284,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.911967",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-201",
@@ -267,7 +301,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.911967",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-202",
@@ -282,7 +318,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:40.912969",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-203",
@@ -297,7 +335,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:40.912969",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-204",
@@ -312,7 +352,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.912969",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-205",
@@ -327,7 +369,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:40.913968",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-206",
@@ -342,7 +386,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:40.913968",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-207",
@@ -357,7 +403,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.914966",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-208",
@@ -372,7 +420,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.914966",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-209",
@@ -387,7 +437,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:40.914966",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-210",
@@ -402,7 +454,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.916341",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-211",
@@ -417,7 +471,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:40.916341",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-212",
@@ -432,7 +488,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.917371",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-213",
@@ -447,7 +505,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.917371",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-214",
@@ -462,7 +522,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:40.918367",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-215",
@@ -477,7 +539,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.918367",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-216",
@@ -492,7 +556,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.919369",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-217",
@@ -507,7 +573,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.919369",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-218",
@@ -522,7 +590,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.920367",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-219",
@@ -537,7 +607,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:40.920367",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-220",
@@ -552,7 +624,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.920367",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-221",
@@ -567,7 +641,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.921368",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-222",
@@ -582,7 +658,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:40.921368",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-223",
@@ -597,7 +675,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:40.922368",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-224",
@@ -612,7 +692,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.922368",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-225",
@@ -627,7 +709,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.922368",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-226",
@@ -642,7 +726,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.923367",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-227",
@@ -657,7 +743,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:40.923367",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-228",
@@ -672,7 +760,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.923367",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-229",
@@ -687,7 +777,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.923367",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-230",
@@ -702,7 +794,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.924870",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-231",
@@ -717,7 +811,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.924870",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-232",
@@ -732,7 +828,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.925876",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-233",
@@ -747,7 +845,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.925876",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-234",
@@ -762,7 +862,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.926876",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-235",
@@ -777,7 +879,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.926876",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-236",
@@ -792,7 +896,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.927874",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-237",
@@ -807,7 +913,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.927874",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-238",
@@ -822,7 +930,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.927874",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-239",
@@ -837,7 +947,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.928877",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-240",
@@ -852,7 +964,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.928877",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-241",
@@ -867,7 +981,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.929875",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-242",
@@ -882,7 +998,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.929875",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-243",
@@ -897,7 +1015,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:40.929875",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-244",
@@ -912,7 +1032,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.310181",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-245",
@@ -927,7 +1049,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.310181",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-246",
@@ -942,7 +1066,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:46.311180",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-247",
@@ -957,7 +1083,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.311180",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-248",
@@ -972,7 +1100,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.312178",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-249",
@@ -987,7 +1117,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.312178",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-250",
@@ -1002,7 +1134,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.313180",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-251",
@@ -1017,7 +1151,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.313180",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-252",
@@ -1032,7 +1168,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.313180",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-253",
@@ -1047,7 +1185,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.314185",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-254",
@@ -1062,7 +1202,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.314185",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-255",
@@ -1077,7 +1219,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.314185",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-256",
@@ -1092,7 +1236,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.315691",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-257",
@@ -1107,7 +1253,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.315691",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-258",
@@ -1122,7 +1270,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.316701",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-259",
@@ -1137,7 +1287,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.316701",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-260",
@@ -1152,7 +1304,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.317701",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-261",
@@ -1167,7 +1321,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.317701",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-262",
@@ -1182,7 +1338,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.318699",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-263",
@@ -1197,7 +1355,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.318699",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-264",
@@ -1212,7 +1372,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.319701",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-265",
@@ -1227,7 +1389,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.319701",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-266",
@@ -1242,7 +1406,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.320697",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-267",
@@ -1257,7 +1423,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.320697",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-268",
@@ -1272,7 +1440,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.321696",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-269",
@@ -1287,7 +1457,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.321696",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-270",
@@ -1302,7 +1474,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.322696",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-271",
@@ -1317,7 +1491,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.322696",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-272",
@@ -1332,7 +1508,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.323700",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-273",
@@ -1347,7 +1525,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.324697",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-274",
@@ -1362,7 +1542,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.324697",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-275",
@@ -1377,7 +1559,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.325698",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-276",
@@ -1392,7 +1576,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.325698",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-277",
@@ -1407,7 +1593,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.326203",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-278",
@@ -1422,7 +1610,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.326203",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-279",
@@ -1437,7 +1627,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.327211",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-280",
@@ -1452,7 +1644,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.327211",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-281",
@@ -1467,7 +1661,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.328209",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-282",
@@ -1482,7 +1678,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.328209",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-283",
@@ -1497,7 +1695,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.329210",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-284",
@@ -1512,7 +1712,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.329210",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-285",
@@ -1527,7 +1729,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.330210",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-286",
@@ -1542,7 +1746,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.330210",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-287",
@@ -1557,7 +1763,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.331507",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-288",
@@ -1572,7 +1780,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.331507",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-289",
@@ -1587,7 +1797,9 @@
         "house_first_reading": "Not Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.332517",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/s-1001",
@@ -1602,7 +1814,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:46.332517",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-1",
@@ -1617,7 +1831,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.333516",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-2",
@@ -1632,7 +1848,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:46.333516",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-3",
@@ -1647,7 +1865,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:46.334523",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-4",
@@ -1662,7 +1882,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:46.334523",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-5",
@@ -1677,7 +1899,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:46.335558",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-6",
@@ -1692,7 +1916,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:46.335558",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-7",
@@ -1707,7 +1933,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:46.336571",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-8",
@@ -1722,7 +1950,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:46.336571",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-9",
@@ -1737,7 +1967,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:46.337568",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-10",
@@ -1752,7 +1984,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:46.338569",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-11",
@@ -1767,7 +2001,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:46.338569",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-12",
@@ -1782,7 +2018,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:46.338569",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-13",
@@ -1797,7 +2035,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:46.339569",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-14",
@@ -1812,7 +2052,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.722847",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-15",
@@ -1827,7 +2069,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.722847",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-16",
@@ -1842,7 +2086,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.723849",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-17",
@@ -1857,7 +2103,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.723849",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-18",
@@ -1872,7 +2120,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.723849",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-19",
@@ -1887,7 +2137,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.724846",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-20",
@@ -1902,7 +2154,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.724846",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-21",
@@ -1917,7 +2171,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.725849",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-22",
@@ -1932,7 +2188,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.726355",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-23",
@@ -1947,7 +2205,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.726355",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-24",
@@ -1962,7 +2222,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.727363",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-25",
@@ -1977,7 +2239,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.727363",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-26",
@@ -1992,7 +2256,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.728362",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-27",
@@ -2007,7 +2273,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.728362",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-28",
@@ -2022,7 +2290,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.729365",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-29",
@@ -2037,7 +2307,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.729365",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-30",
@@ -2052,7 +2324,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.730361",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-31",
@@ -2067,7 +2341,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.730361",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-32",
@@ -2082,7 +2358,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.731371",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-33",
@@ -2097,7 +2375,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.731371",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-34",
@@ -2112,7 +2392,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.732372",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-35",
@@ -2127,7 +2409,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.732372",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-36",
@@ -2142,7 +2426,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.733363",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-37",
@@ -2157,7 +2443,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.733363",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-38",
@@ -2172,7 +2460,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.733363",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-39",
@@ -2187,7 +2477,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.734363",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-40",
@@ -2202,7 +2494,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.734363",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-41",
@@ -2217,7 +2511,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.735870",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-42",
@@ -2232,7 +2528,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.735870",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-43",
@@ -2247,7 +2545,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.736881",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-44",
@@ -2262,7 +2562,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.736881",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-45",
@@ -2277,7 +2579,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.737938",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-46",
@@ -2292,7 +2596,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.738445",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-47",
@@ -2307,7 +2613,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.738445",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-48",
@@ -2322,7 +2630,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.739452",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-49",
@@ -2337,7 +2647,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.739452",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-50",
@@ -2352,7 +2664,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.740451",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-51",
@@ -2367,7 +2681,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.740451",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-52",
@@ -2382,7 +2698,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.740451",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-53",
@@ -2397,7 +2715,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.741454",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-54",
@@ -2412,7 +2732,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.742452",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-55",
@@ -2427,7 +2749,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.742452",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-56",
@@ -2442,7 +2766,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.743452",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-57",
@@ -2457,7 +2783,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.743452",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-58",
@@ -2472,7 +2800,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.743452",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-59",
@@ -2487,7 +2817,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.744451",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-60",
@@ -2502,7 +2834,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.744451",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-61",
@@ -2517,7 +2851,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.744451",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-62",
@@ -2532,7 +2868,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.745957",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-63",
@@ -2547,7 +2885,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.745957",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-64",
@@ -2562,7 +2902,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.745957",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-65",
@@ -2577,7 +2919,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.746963",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-66",
@@ -2592,7 +2936,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.746963",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-67",
@@ -2607,7 +2953,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.747965",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-68",
@@ -2622,7 +2970,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.748965",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-69",
@@ -2637,7 +2987,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.748965",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-70",
@@ -2652,7 +3004,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:51.749966",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-71",
@@ -2667,7 +3021,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.749966",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-72",
@@ -2682,7 +3038,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.750966",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-73",
@@ -2697,7 +3055,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:51.750966",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-74",
@@ -2712,7 +3072,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:57.105834",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-75",
@@ -2727,7 +3089,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:57.105834",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-76",
@@ -2742,7 +3106,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:57.106834",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-77",
@@ -2757,7 +3123,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.106834",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-201",
@@ -2772,7 +3140,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.106834",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-202",
@@ -2787,7 +3157,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.108117",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-203",
@@ -2802,7 +3174,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.108117",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-204",
@@ -2817,7 +3191,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.108117",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-205",
@@ -2832,7 +3208,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.109113",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-206",
@@ -2847,7 +3225,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.109113",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-207",
@@ -2862,7 +3242,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.110112",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-208",
@@ -2877,7 +3259,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.110112",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-209",
@@ -2892,7 +3276,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.110112",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-210",
@@ -2907,7 +3293,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.111113",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-211",
@@ -2922,7 +3310,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.111113",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-212",
@@ -2937,7 +3327,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.112114",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-213",
@@ -2952,7 +3344,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.112114",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-214",
@@ -2967,7 +3361,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.113112",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-215",
@@ -2982,7 +3378,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.113112",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-216",
@@ -2997,7 +3395,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.114113",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-217",
@@ -3012,7 +3412,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.114113",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-218",
@@ -3027,7 +3429,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.114113",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-219",
@@ -3042,7 +3446,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.115112",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-220",
@@ -3057,7 +3463,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.115112",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-221",
@@ -3072,7 +3480,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.115112",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-222",
@@ -3087,7 +3497,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.115112",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-223",
@@ -3102,7 +3514,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.116616",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-224",
@@ -3117,7 +3531,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:57.116616",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-225",
@@ -3132,7 +3548,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.117624",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-226",
@@ -3147,7 +3565,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:57.117624",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-227",
@@ -3162,7 +3582,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.118624",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-228",
@@ -3177,7 +3599,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:57.118624",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-229",
@@ -3192,7 +3616,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.119624",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-230",
@@ -3207,7 +3633,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.119624",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-231",
@@ -3222,7 +3650,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.120621",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-232",
@@ -3237,7 +3667,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.120621",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-233",
@@ -3252,7 +3684,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:57.120621",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-234",
@@ -3267,7 +3701,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.121632",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-235",
@@ -3282,7 +3718,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:57.121632",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-236",
@@ -3297,7 +3735,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.122631",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-237",
@@ -3312,7 +3752,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.122631",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-238",
@@ -3327,7 +3769,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.123621",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-239",
@@ -3342,7 +3786,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.123621",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-240",
@@ -3357,7 +3803,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.124621",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-241",
@@ -3372,7 +3820,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.124621",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-242",
@@ -3387,7 +3837,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:13:57.125623",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-243",
@@ -3402,7 +3854,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.125623",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-244",
@@ -3417,7 +3871,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.126621",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-245",
@@ -3432,7 +3888,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.126621",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-246",
@@ -3447,7 +3905,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.126621",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-247",
@@ -3462,7 +3922,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.128127",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-248",
@@ -3477,7 +3939,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.128127",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-249",
@@ -3492,7 +3956,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.128127",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-250",
@@ -3507,7 +3973,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.129123",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-251",
@@ -3522,7 +3990,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.129123",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-252",
@@ -3537,7 +4007,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.130124",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-253",
@@ -3552,7 +4024,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.130124",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-254",
@@ -3567,7 +4041,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.130124",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-255",
@@ -3582,7 +4058,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.131121",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-256",
@@ -3597,7 +4075,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:13:57.131121",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-257",
@@ -3612,7 +4092,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.480357",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-258",
@@ -3627,7 +4109,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.480357",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-259",
@@ -3642,7 +4126,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.481358",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-260",
@@ -3657,7 +4143,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.481358",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-261",
@@ -3672,7 +4160,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.482359",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-262",
@@ -3687,7 +4177,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.482359",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-263",
@@ -3702,7 +4194,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.483358",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-264",
@@ -3717,7 +4211,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.483358",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-265",
@@ -3732,7 +4228,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.483358",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-266",
@@ -3747,7 +4245,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.484364",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-267",
@@ -3762,7 +4262,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.484364",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-268",
@@ -3777,7 +4279,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.485374",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-269",
@@ -3792,7 +4296,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.485374",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-270",
@@ -3807,7 +4313,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.485374",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-271",
@@ -3822,7 +4330,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.486789",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-272",
@@ -3837,7 +4347,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.487294",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-273",
@@ -3852,7 +4364,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.488302",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-274",
@@ -3867,7 +4381,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.488302",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-275",
@@ -3882,7 +4398,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.489300",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-276",
@@ -3897,7 +4415,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.489300",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-277",
@@ -3912,7 +4432,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.489300",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-278",
@@ -3927,7 +4449,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.490299",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-279",
@@ -3942,7 +4466,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.490299",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-280",
@@ -3957,7 +4483,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.491298",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-281",
@@ -3972,7 +4500,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.491298",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-282",
@@ -3987,7 +4517,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.491298",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-283",
@@ -4002,7 +4534,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.492298",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-284",
@@ -4017,7 +4551,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.492801",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-285",
@@ -4032,7 +4568,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.492801",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-286",
@@ -4047,7 +4585,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.492801",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-287",
@@ -4062,7 +4602,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.493806",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-288",
@@ -4077,7 +4619,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:14:02.494312",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-289",
@@ -4092,7 +4636,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.494312",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-290",
@@ -4107,7 +4653,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.495319",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-291",
@@ -4122,7 +4670,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Completed"
+        "royal_assent": "Completed",
+        "last_updated_at": "2024-10-17T21:14:02.495319",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-292",
@@ -4137,7 +4687,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.496319",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-293",
@@ -4152,7 +4704,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.496319",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-294",
@@ -4167,7 +4721,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.497318",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-295",
@@ -4182,7 +4738,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.497318",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-296",
@@ -4197,7 +4755,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.497318",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-297",
@@ -4212,7 +4772,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.498639",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-298",
@@ -4227,7 +4789,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.498639",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-299",
@@ -4242,7 +4806,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.499643",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-300",
@@ -4257,7 +4823,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.499643",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-301",
@@ -4272,7 +4840,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.499643",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-302",
@@ -4287,7 +4857,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.500644",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-303",
@@ -4302,7 +4874,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.500644",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-304",
@@ -4317,7 +4891,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.501747",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-305",
@@ -4332,7 +4908,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.502251",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-306",
@@ -4347,7 +4925,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.502251",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-307",
@@ -4362,7 +4942,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.503256",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-308",
@@ -4377,7 +4959,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.503256",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-309",
@@ -4392,7 +4976,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.504257",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-310",
@@ -4407,7 +4993,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.504257",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-311",
@@ -4422,7 +5010,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.505276",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-312",
@@ -4437,7 +5027,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.505276",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-313",
@@ -4452,7 +5044,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.506269",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-314",
@@ -4467,7 +5061,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.506269",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-315",
@@ -4482,7 +5078,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.507260",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-316",
@@ -4497,7 +5095,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:02.507260",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-317",
@@ -4512,7 +5112,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.897603",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-318",
@@ -4527,7 +5129,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.898107",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-319",
@@ -4542,7 +5146,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.898646",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-320",
@@ -4557,7 +5163,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.899189",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-321",
@@ -4572,7 +5180,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.900285",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-322",
@@ -4587,7 +5197,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.900825",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-323",
@@ -4602,7 +5214,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.901367",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-324",
@@ -4617,7 +5231,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.901367",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-325",
@@ -4632,7 +5248,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.901981",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-326",
@@ -4647,7 +5265,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.902485",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-327",
@@ -4662,7 +5282,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.902485",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-328",
@@ -4677,7 +5299,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.903008",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-329",
@@ -4692,7 +5316,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.903536",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-330",
@@ -4707,7 +5333,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.904057",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-331",
@@ -4722,7 +5350,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.904576",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-332",
@@ -4737,7 +5367,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.905100",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-333",
@@ -4752,7 +5384,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.905621",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-334",
@@ -4767,7 +5401,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.906150",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-335",
@@ -4782,7 +5418,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.906150",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-336",
@@ -4797,7 +5435,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.906150",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-337",
@@ -4812,7 +5452,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.906150",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-338",
@@ -4827,7 +5469,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.907659",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-339",
@@ -4842,7 +5486,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.907659",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-340",
@@ -4857,7 +5503,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.908668",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-341",
@@ -4872,7 +5520,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.908668",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-342",
@@ -4887,7 +5537,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.909667",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-343",
@@ -4902,7 +5554,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.909667",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-344",
@@ -4917,7 +5571,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.909667",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-345",
@@ -4932,7 +5588,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.910663",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-346",
@@ -4947,7 +5605,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.910663",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-347",
@@ -4962,7 +5622,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.911664",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-348",
@@ -4977,7 +5639,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.911664",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-349",
@@ -4992,7 +5656,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.911664",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-350",
@@ -5007,7 +5673,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.912664",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-351",
@@ -5022,7 +5690,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.912664",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-352",
@@ -5037,7 +5707,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.913663",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-353",
@@ -5052,7 +5724,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.913663",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-354",
@@ -5067,7 +5741,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.914663",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-355",
@@ -5082,7 +5758,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.914663",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-356",
@@ -5097,7 +5775,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.915663",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-357",
@@ -5112,7 +5792,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.916664",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-358",
@@ -5127,7 +5809,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.916664",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-359",
@@ -5142,7 +5826,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.917663",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-360",
@@ -5157,7 +5843,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.918168",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-361",
@@ -5172,7 +5860,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.919173",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-362",
@@ -5187,7 +5877,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.919173",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-363",
@@ -5202,7 +5894,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.920180",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-364",
@@ -5217,7 +5911,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.921178",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-365",
@@ -5232,7 +5928,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.921178",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-366",
@@ -5247,7 +5945,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.922178",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-367",
@@ -5262,7 +5962,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.923177",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-368",
@@ -5277,7 +5979,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.923177",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-369",
@@ -5292,7 +5996,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.924178",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-370",
@@ -5307,7 +6013,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.924178",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-371",
@@ -5322,7 +6030,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.925179",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-372",
@@ -5337,7 +6047,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.925735",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-373",
@@ -5352,7 +6064,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.926743",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-374",
@@ -5367,7 +6081,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.926743",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-375",
@@ -5382,7 +6098,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.927740",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-376",
@@ -5397,7 +6115,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:07.927740",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-377",
@@ -5412,7 +6132,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.196926",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-378",
@@ -5427,7 +6149,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.196926",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-379",
@@ -5442,7 +6166,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.198432",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-380",
@@ -5457,7 +6183,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.198432",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-381",
@@ -5472,7 +6200,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.199439",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-382",
@@ -5487,7 +6217,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.199439",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-383",
@@ -5502,7 +6234,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.200439",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-384",
@@ -5517,7 +6251,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.200439",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-385",
@@ -5532,7 +6268,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.200439",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-386",
@@ -5547,7 +6285,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.201437",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-387",
@@ -5562,7 +6302,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.201437",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-388",
@@ -5577,7 +6319,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.202444",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-389",
@@ -5592,7 +6336,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.202444",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-390",
@@ -5607,7 +6353,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.203447",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-391",
@@ -5622,7 +6370,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.204439",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-392",
@@ -5637,7 +6387,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.204439",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-393",
@@ -5652,7 +6404,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.204439",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-394",
@@ -5667,7 +6421,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.205440",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-395",
@@ -5682,7 +6438,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.206439",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-396",
@@ -5697,7 +6455,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.206439",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-397",
@@ -5712,7 +6472,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.206439",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-398",
@@ -5727,7 +6489,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.207513",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-399",
@@ -5742,7 +6506,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.208017",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-400",
@@ -5757,7 +6523,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.208529",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-401",
@@ -5772,7 +6540,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.208529",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-402",
@@ -5787,7 +6557,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.209536",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-403",
@@ -5802,7 +6574,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.209536",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-404",
@@ -5817,7 +6591,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.210536",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-405",
@@ -5832,7 +6608,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.210536",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-406",
@@ -5847,7 +6625,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.210536",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-407",
@@ -5862,7 +6642,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.211533",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-408",
@@ -5877,7 +6659,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.211533",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-409",
@@ -5892,7 +6676,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.212536",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-410",
@@ -5907,7 +6693,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.213545",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-411",
@@ -5922,7 +6710,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.213545",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-412",
@@ -5937,7 +6727,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.213545",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-413",
@@ -5952,7 +6744,9 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.214536",
+        "change_status": false
     },
     {
         "href": "https://www.parl.ca/LegisInfo/en/bill/44-1/c-414",
@@ -5967,6 +6761,8 @@
         "house_first_reading": "Completed",
         "house_second_reading": "Not Completed",
         "house_third_reading": "Not Completed",
-        "royal_assent": "Not Completed"
+        "royal_assent": "Not Completed",
+        "last_updated_at": "2024-10-17T21:14:13.214536",
+        "change_status": false
     }
 ]
