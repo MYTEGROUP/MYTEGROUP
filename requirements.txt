@@ -10,3 +10,7 @@ bcrypt==4.0.1  # Password hashing
 Flask-Mail==0.9.1  # Email notifications
 Matplotlib==3.7.2  # Data visualization
 python-dotenv==1.0.0  # Environment variable management
+plotly==5.15.0  # Advanced interactive data visualizations for frontend
+openai==0.27.0  # OpenAI API integrations for AI-powered summarization and fact-checking
+
+# End of requirements.txt
