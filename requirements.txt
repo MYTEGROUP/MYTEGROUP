@@ -2,11 +2,3 @@ selenium==4.10.0  # Upgraded for better support and stability
 webdriver-manager==4.0.0  # Ensures compatibility with latest Selenium versions
 beautifulsoup4==4.12.2  # Required for parsing HTML content
 lxml==4.9.3  # Boosts HTML/XML parsing performance for BeautifulSoup
-Flask==2.3.2  # Web framework for handling HTTP requests and routing
-Flask-Login==0.6.2  # User session management
-Flask-SocketIO==5.3.2  # Real-time communication
-Flask-WTF==1.0.1  # Form handling and validation
-bcrypt==4.0.1  # Password hashing
-Flask-Mail==0.9.1  # Email notifications
-Matplotlib==3.7.2  # Data visualization
-python-dotenv==1.0.0  # Environment variable management
