@@ -34,7 +34,6 @@ def generate_text(system_message, assistant_message, user_prompt):
                 {"role": "user", "content": user_prompt}
             ]
         )
-        print(f"{response}")
         return response.choices[0].message.content
 
 
