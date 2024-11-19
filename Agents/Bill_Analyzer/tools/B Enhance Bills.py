@@ -9,6 +9,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 
+### MAKE SURE TO MERGE THE DATA NOT APPEND THE DATA TO cANAFAbILLSeNHANCED.JSON - CURRENT YDOUBLE THE NUMBER OF BILLS.
+
 # Set up Chrome options
 chrome_options = Options()
 chrome_options.add_argument("--no-sandbox")
